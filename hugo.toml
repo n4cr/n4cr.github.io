@@ -1,0 +1,4 @@
+baseURL = 'http://nasir.sh/'
+languageCode = 'en-us'
+title = 'Nasir Shadravan'
+theme = 'mini'

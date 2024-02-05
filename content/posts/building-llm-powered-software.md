@@ -1,7 +1,7 @@
 ---
 title: "Building LLM Powered Software"
 date: 2024-02-05T11:14:23+01:00
-draft: true
+draft: false
 ---
 There is a lot of hype around AI and Large Language Models. On one side of the spectrum some argue that this is another wave and will die out. On the other side, some believe that AGI is here and we’re doomed. The magic is happening somewhere in the middle.
 

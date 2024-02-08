@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2024-02-05T11:14:23+01:00
+date: 2024-02-01T11:14:23+01:00
 draft: false
 ---
 My name is Nasir Shadravan. I'm located in Amsterdam.

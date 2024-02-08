@@ -1,5 +1,5 @@
 ---
-title: "Desiging LLM Powered Software"
+title: "Architecting LLM Powered Software"
 date: 2024-02-05T11:14:23+01:00
 draft: false
 ---

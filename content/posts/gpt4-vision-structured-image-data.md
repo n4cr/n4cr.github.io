@@ -8,6 +8,9 @@ The OpenAI [GPT-4 vision model](https://platform.openai.com/docs/guides/vision) 
 
 An interesting use case is to extract structured data from images so you can make them searchable. Imagine, you have a bunch of aerial images for some land and you want to have the images indexed structurally in a database. You can use GPT-4 vision to extract a JSON object from the image. Here are two examples and then next is the code to do it.
 
+This code particularly uses the `instructor` library to handle the API calls and the responses. The `instructor` library is a wrapper around the OpenAI API that makes it easier to use the API and handle the responses. It also provides a way to define the structure of the response and validate it. Check it out [here](https://jxnl.github.io/instructor/).
+
+
 ![Parking Image](/gpt4-vision-image-analysis/img2.jpg)
 
 Here is the output:

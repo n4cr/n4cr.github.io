@@ -6,7 +6,7 @@ draft: false
 
 The OpenAI [GPT-4 vision model](https://platform.openai.com/docs/guides/vision) allows you to understand images and generate text about them. This model is used by ChatGPT when you upload an image and ask a question about it. It is quite powerful and can be used in a variety of applications. The model is also accesible via the OpenAI API. You can upload an image and run a prompt against it to generate a text output.
 
-An intersting use case is to extract structured data from images so you can make them searchable. Imagine, you have a bunch of aerial images for some land and you want to have the images indexed structurally in a database. You can use GPT-4 vision to extract a JSON object from the image. Here are two examples and then next is the code to do it.
+An interesting use case is to extract structured data from images so you can make them searchable. Imagine, you have a bunch of aerial images for some land and you want to have the images indexed structurally in a database. You can use GPT-4 vision to extract a JSON object from the image. Here are two examples and then next is the code to do it.
 
 ![Parking Image](/gpt4-vision-image-analysis/img2.jpg)
 

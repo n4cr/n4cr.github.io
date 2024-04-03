@@ -64,7 +64,7 @@ Outcome of the analsys:
 }
 ```
 
-The code to produce that. 
+The code to produce that. You can also [get it on Github.](https://github.com/n4cr/ai-cookbook/tree/main/customer_call)
 ```python
 import instructor
 from openai import OpenAI
@@ -120,9 +120,6 @@ if __name__ == "__main__":
     # Print the analysis in JSON format for readability
     print(json.dumps(analysis.model_dump(), indent=2))
     print("Process completed.")
-
-
 ```
 
-Which will result in
-
+If you're interested to know more or have any questions, feel free to reach out on my LinkedIn or X linked below. You can also email me on nasir [at] semicolon [dot] io. 

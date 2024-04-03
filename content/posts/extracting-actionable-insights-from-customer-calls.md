@@ -1,7 +1,7 @@
 ---
 title: "Extracting Actionable Insights from Customer Calls: A Practical Example"
-date: 2024-04-02T07:02:48+02:00
-draft: true
+date: 2024-04-03T07:02:48+02:00
+draft: false
 ---
 
 A lot of businesses do their customer support through phone calls. Usually, customers prefer to reach out for the phone to get their issues solved rather than to get into a ping pong email interaction to solve a problem. It is faster, interactive and more human.

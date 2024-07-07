@@ -18,32 +18,6 @@ The claim by Sam is the extreme version of this but possible. If someone has a c
 
 Now back to your job. Should you be worried about AI regarding your job? I think you should be. Not about some robot taking your job but your annoying colleague who keeps talking about AI and playing with it. Learning what you can do with it can help you elevate your thinking and open doors to new possibilities. In 2024, no one is going to hire the developer who can't use ChatGPT to produce, test, and debug code. And a similar wave is underway for most other white-collar and creative jobs.
 
-So what are the skills that are necessary to get ahead of your game? First of all leverage AI to remove as much mundane work as possible out of your way to get your job done. 
+So what are the skills that are necessary to get ahead of your game? First of all, leverage AI to remove as much mundane work as possible out of your way to get your job done. Preferably, you want to spend most of your time doing work which has high impact. The less time spent on mundane work, the more you have for high-impact tasks.
 
-Think deeper about the work you're doing and its implications. I think the answer is in returning to our basic human nature and improving those fundamental skills. Here are some key areas to focus on:
-
-1. **Critical Thinking**: The ability to analyze information objectively and make reasoned judgments.
-
-2. **Communication**: Effectively conveying ideas and information to others, both verbally and in writing.
-
-3. **Curiosity**: A strong desire to learn and understand new concepts, technologies, and methodologies.
-
-4. **Empathy**: The ability to understand and share the feelings of others. The era of the skilled but insensitive colleague is over.
-
-5. **Adaptability**: The capacity to quickly learn and adjust to new technologies and methodologies.
-
-6. **Creativity**: Generating innovative solutions that AI might not consider.
-
-7. **Leadership**: Guiding teams and projects effectively, especially when working with AI tools.
-
-8. **Ethical Judgment**: Making responsible decisions about AI use and implementation.
-
-9. **Emotional Intelligence**: Understanding and managing emotions in yourself and others.
-
-10. **Strategic Thinking**: Seeing the big picture and planning for long-term success.
-
-11. **Collaboration**: Working effectively with both humans and AI systems.
-
-12. **Problem-Solving**: Tackling complex issues that require human insight and creativity.
-
-By honing these skills, you can position yourself to thrive in an AI-augmented workplace, leveraging technology while emphasizing uniquely human capabilities.
+Think deeper about the work you're doing and its implications. I think the answer lies in returning to our basic human nature and improving those fundamental skills. This includes skills such as critical thinking, communication, curiosity, empathy, adaptability, collaboration, and strategic thinking. These skills have always made the difference but in this era will be more important than ever.

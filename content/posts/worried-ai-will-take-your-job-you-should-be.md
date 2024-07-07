@@ -1,5 +1,5 @@
 ---
-title: "Are You Worried AI Will Take Your Job? You Should Be"
+title: "Worried AI Will Take Your Job? You Should Be"
 date: 2024-07-07T21:30:03+01:00
 draft: false
 ---

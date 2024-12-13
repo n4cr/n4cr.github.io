@@ -1,10 +1,14 @@
 ---
 title: "What is an AI Agent?"
-summary: "AI agents are one of the most hyped words in the AI space. The word is thrown left and right like candy and it definitely helps you to sound smart with no consensus on a definition. I'm a simple man, so I need a simple definitions. So, after reading a bunch of stuff and building my own agents, I think this definition... ...makes me happiest. "
+image: "/what-is-an-ai-agent/aiagents.jpg"
+summary: "AI agents are one of the most hyped words in the AI space. The word is thrown left and right like candy and it definitely helps you to sound smart with no consensus on a definition. I'm a simple man, so I need a simple definitions. So, after reading a bunch of stuff and building my own agents, I think this definition... ...makes me happiest."
 date: 2024-12-12T22:39:02+01:00
 ---
 
+
 What is an AI Agent and how should we define it?
+
+![AI Agents](/what-is-an-ai-agent/aiagents.jpg)
 
 AI agents are one of the most hyped words in the AI space. The word is thrown left and right like candy and it definitely helps you to sound smart with no consensus on a definition. I'm a simple man, so I need a simple definitions. So, after reading a bunch of stuff and building my own agents, I think this definition... ...makes me happiest. 
 

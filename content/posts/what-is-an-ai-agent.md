@@ -28,7 +28,7 @@ When building such a system, you don't want to do all these tasks in the same se
 
  To build our article generator, you'd be better of using separate agents specialising on their own task. One would be in charge of searching the content, one in charge of summarizing it and the last in charge of writing. Agent 1 first searchse and then pass that search result to the summarizer. The summarizing agent will summarize the result and passes to the writer. And finally the write, takes all that and writes the article.
 
- Multi-agent systems have shown to be quite promising and of much higher quality compared to single agent systems. There are a lot of frameworks at the moment that can orchestrate a multi-agent system. One example is [CrewAI](crewai.com). OpenAI resets a new tool called [Swarm](https://github.com/openai/swarm), an experimental tool. 
+ Multi-agent systems have shown to be quite promising and of much higher quality compared to single agent systems. There are a lot of frameworks at the moment that can orchestrate a multi-agent system. One example is [CrewAI](crewai.com). OpenAI also released a new tool called [Swarm](https://github.com/openai/swarm), which is an experimental tool. 
 
 In the coming days, I will be writing more about practical implementation of agents using various frameworks. Stay tuned.
 

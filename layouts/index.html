@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="homepage">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>I Build AI MVPs in 10 Days</h1>
+                <p class="hero-subtitle">No strategy decks. No months-long timelines. No BS.<br>You get working software, full code ownership, and I'm out.</p>
+                <p class="hero-price"><strong>$15k flat rate.</strong></p>
+                <div class="hero-cta">
+                    <a href="https://calendly.com/nasir-shadravan/mvp-call" class="btn btn-primary btn-lg">Book a 20-Minute Call</a>
+                    <a href="/built" class="btn btn-secondary btn-lg">See What I've Built →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <section class="page-content">
+        <div class="container">
+            <article class="content">
+                {{ .Content }}
+            </article>
+        </div>
+    </section>
+</div>
+{{ end }}

@@ -1,11 +1,34 @@
 baseURL = 'http://nasir.sh/'
 languageCode = 'en-us'
-title = 'Nasir Shadravan'
+title = 'Nasir Shadravan - I Build AI MVPs in 10 Days'
 theme = 'mini'
 
 [markup.goldmark.renderer]
 unsafe= true
 
+[params]
+  description = "I build AI MVPs in 10 days and business automation in 5-7 days. $15k flat. No BS."
+  author = "Nasir Shadravan"
+  customCSS = ["css/custom.css"]
+
+[[menu.main]]
+  name = "What I've Built"
+  url = "/built"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 2
+
+[[menu.main]]
+  name = "Book a Call"
+  url = "https://calendly.com/nasir-shadravan/mvp-call"
+  weight = 3
+
 [taxonomies]
    tag = "tags"
    category = "categories"
+
+[build]
+  ignoreFiles = ["content/archive/.*"]

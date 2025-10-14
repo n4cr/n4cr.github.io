@@ -1,0 +1,97 @@
+/* CTA Buttons - Conversion Focused */
+.cta-button {
+  display: inline-block;
+  padding: 16px 32px;
+  background: #2563eb;
+  color: #ffffff !important;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 10px 10px 10px 0;
+  transition: background 0.2s ease;
+  text-align: center;
+}
+
+.cta-button:hover {
+  background: #1d4ed8;
+  text-decoration: none;
+}
+
+.cta-secondary {
+  display: inline-block;
+  padding: 16px 32px;
+  background: #f3f4f6;
+  color: #1f2937 !important;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 18px;
+  margin: 10px 10px 10px 0;
+  transition: background 0.2s ease;
+  text-align: center;
+}
+
+.cta-secondary:hover {
+  background: #e5e7eb;
+  text-decoration: none;
+}
+
+/* Mobile Optimization */
+@media (max-width: 768px) {
+  .cta-button,
+  .cta-secondary {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    font-size: 16px;
+    padding: 14px 24px;
+  }
+}
+
+/* Make hero stand out */
+h1 {
+  font-size: 2.5em;
+  line-height: 1.2;
+  margin-bottom: 0.5em;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2em;
+  }
+}
+
+/* Pricing callout */
+strong {
+  color: #2563eb;
+}
+
+/* FAQ section readability */
+h2 {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 1.5em;
+  line-height: 1.8;
+}
+
+/* Horizontal rules */
+hr {
+  margin: 3em 0;
+  border: none;
+  border-top: 2px solid #e5e7eb;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

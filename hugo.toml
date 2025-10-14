@@ -23,7 +23,7 @@ unsafe= true
 
 [[menu.main]]
   name = "Book a Call"
-  url = "https://calendly.com/nasir-shadravan/mvp-call"
+  url = "https://calendly.com/nasir-fio/30min"
   weight = 3
 
 [taxonomies]

@@ -23,11 +23,16 @@
         <div class="container">
             <div class="nav-content">
                 <a href="/" class="logo">Nasir Shadravan</a>
+                <button class="nav-toggle" aria-label="Toggle navigation">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
                 <div class="nav-links">
                     <a href="/built">What I've Built</a>
                     <a href="/why-so-fast">Why So Fast?</a>
                     <a href="/about">About</a>
-                    <a href="https://calendly.com/nasir-shadravan/mvp-call" class="nav-cta">Book a Call</a>
+                    <a href="https://calendly.com/nasir-fio/30min" class="nav-cta">Book a Call</a>
                 </div>
             </div>
         </div>
@@ -38,12 +43,36 @@
         {{ block "main" . }}{{ end }}
     </main>
 
+    <!-- Mobile Nav Script -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const navToggle = document.querySelector('.nav-toggle');
+            const navLinks = document.querySelector('.nav-links');
+
+            if (navToggle) {
+                navToggle.addEventListener('click', function() {
+                    navToggle.classList.toggle('active');
+                    navLinks.classList.toggle('active');
+                });
+
+                // Close menu when clicking on a link
+                const links = navLinks.querySelectorAll('a');
+                links.forEach(link => {
+                    link.addEventListener('click', function() {
+                        navToggle.classList.remove('active');
+                        navLinks.classList.remove('active');
+                    });
+                });
+            }
+        });
+    </script>
+
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-cta">
                 <h2>Ready to Ship Fast?</h2>
-                <a href="https://calendly.com/nasir-shadravan/mvp-call" class="btn btn-primary btn-lg">Book a 20-Minute Call</a>
+                <a href="https://calendly.com/nasir-fio/30min" class="btn btn-primary btn-lg">Book a 30-Minute Call</a>
                 <p class="footer-email">Or email: <a href="mailto:nasir@semicolon.io">nasir@semicolon.io</a></p>
             </div>
 

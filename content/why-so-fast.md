@@ -135,4 +135,4 @@ The result? You get working software faster, and you can iterate sooner.
 
 **Ready to move fast?**
 
-[Book a 20-Minute Call](https://calendly.com/nasir-shadravan/mvp-call) | [See What I've Built](/built)
+[Book a 30-Minute Call](https://calendly.com/nasir-fio/30min) | [See What I've Built](/built)

@@ -1,6 +1,6 @@
 ---
 title: "I Build MVPs, Internal Tools & Automations in 10 Days"
-description: "I build MVPs, internal tools, and business automations in 10 days. Fast execution, clear deliverables. $15k flat. Amsterdam."
+description: "I build MVPs, internal tools, and business automations in 10 days. Fast execution, clear deliverables. €15k flat. Amsterdam."
 ---
 
 ## How It Works
@@ -68,7 +68,7 @@ description: "I build MVPs, internal tools, and business automations in 10 days.
 
 ✅ You value speed over perfection
 
-✅ You're tired of agencies that take months and charge $50k+
+✅ You're tired of agencies that take months and charge €50k+
 
 ## This Is NOT For You If:
 
@@ -138,13 +138,13 @@ description: "I build MVPs, internal tools, and business automations in 10 days.
 
 ## Pricing
 
-### MVP or Internal Tool: $15,000 flat (10 days)
+### MVP or Internal Tool: €15,000 flat (10 days)
 
-- Standard project: $15k
-- Complex scope: $18k-20k
-- Rush delivery (7 days): +$5k
+- Standard project: €15k
+- Complex scope: €18k-20k
+- Rush delivery (7 days): +€5k
 
-### Business Automation: $8k-12k (5-7 days)
+### Business Automation: €8k-12k (5-7 days)
 
 Build N8N automation workflows that eliminate manual work in your operations, sales, or customer success teams.
 
@@ -168,7 +168,7 @@ Build N8N automation workflows that eliminate manual work in your operations, sa
 
 - **Rudys.AI** - Google Ads AI platform now live with paying customers (6 weeks)
 - **AI Poster Generator** - AI-powered poster design tool with paid users (2 weeks)
-- **Sales Call Analyzer** - Auto-transcribe → AI summary → CRM update (4 hours, saves 2 hrs/day = $30k/year)
+- **Sales Call Analyzer** - Auto-transcribe → AI summary → CRM update (4 hours, saves 2 hrs/day = €30k/year)
 - **Multilingual Course Pipeline** - Farsi → English/French/Turkish with AI voice & lip-sync (1 day)
 - **Emergency NL Dashboard** - Real-time analytics for Dutch emergency data (2 days)
 - **Tom's Bakery System** - WhatsApp ordering automation (7 minutes)

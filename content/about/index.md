@@ -4,9 +4,24 @@ date: 2024-02-01T11:14:23+01:00
 draft: false
 ---
 
-# About Me
+<div class="about-header">
+  <div class="about-photo">
+    <img src="/images/nasirphoto.jpeg" alt="Nasir Shadravan" class="profile-img">
+  </div>
+  <div class="about-intro">
+    <h1>About Me</h1>
+    <p class="location">📍 Amsterdam, Netherlands</p>
+    <p class="location-detail">🏢 Working from A'DAM Tower</p>
+    <p class="tagline">I build MVPs, internal tools, and automations for startups and businesses that need to ship fast.</p>
+  </div>
+</div>
 
-I'm Nasir Shadravan. I build AI MVPs and automation systems for startups that need to ship fast.
+<div class="location-showcase">
+  <img src="/images/adam.jpg" alt="A'DAM Tower Amsterdam" class="location-img">
+  <p class="location-caption">Working from A'DAM Tower - Amsterdam's iconic tech hub</p>
+</div>
+
+---
 
 **20 years building software.** J2EE monoliths, Django apps, microservices, and now AI-powered products. I've worked with small startups and large enterprises.
 
@@ -45,6 +60,45 @@ I'm Nasir Shadravan. I build AI MVPs and automation systems for startups that ne
 - **Internal tools** - CV parsers, dashboards, ordering systems built in hours.
 
 ---
+
+---
+
+## Watch: How I Work
+
+<div class="video-placeholder">
+  <!-- TODO: Record a 60-90 second video introduction -->
+  <!-- Upload to YouTube/Vimeo and replace this placeholder -->
+  <div class="video-box">
+    <p>📹 <strong>Video Introduction Coming Soon</strong></p>
+    <p>A quick look at how I build AI products using Claude Code and modern tooling.</p>
+  </div>
+  <!-- When ready, replace above with:
+  <iframe width="560" height="315" src="YOUR_VIDEO_URL" frameborder="0" allowfullscreen></iframe>
+  -->
+</div>
+
+---
+
+## Trust & Credentials
+
+<div class="trust-badges">
+  <div class="badge">
+    <strong>🏢 Registered Business</strong>
+    <p>KVK: [Your Chamber of Commerce Number]</p>
+  </div>
+  <div class="badge">
+    <strong>💼 20 Years Experience</strong>
+    <p>Software engineering since 2005</p>
+  </div>
+  <div class="badge">
+    <strong>🚀 Live Products</strong>
+    <p>2 products with paying customers</p>
+  </div>
+  <div class="badge">
+    <strong>🇳🇱 Based in Amsterdam</strong>
+    <p>A'DAM Tower - serving Dutch & international clients</p>
+  </div>
+</div>
 
 ---
 

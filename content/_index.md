@@ -1,17 +1,60 @@
 ---
-title: "I Build AI MVPs in 10 Days"
-description: "I build AI MVPs in 10 days and business automation in 5-7 days. $15k flat. No BS."
+title: "I Build MVPs, Internal Tools & Automations in 10 Days"
+description: "I build MVPs, internal tools, and business automations in 10 days. Fast execution, clear deliverables. $15k flat. Amsterdam."
 ---
 
 ## How It Works
 
-**Day 1-2:** Deep dive on your requirements. I scope the MVP, define tech stack, set clear boundaries.
+<div class="process-timeline">
+  <div class="process-step">
+    <div class="step-number">Day 1-2</div>
+    <div class="step-content">
+      <h3>Strategic Scoping</h3>
+      <ul>
+        <li>Deep dive: understand your vision & goals</li>
+        <li>Critical thinking: what should stay, what should go</li>
+        <li>Refine scope to the core essence</li>
+        <li>Clear, signed scope document</li>
+      </ul>
+    </div>
+  </div>
 
-**Day 3-8:** I build using Claude Code and modern AI tooling. You get daily updates.
+  <div class="process-step">
+    <div class="step-number">Day 3-8</div>
+    <div class="step-content">
+      <h3>Building</h3>
+      <ul>
+        <li>Daily progress updates</li>
+        <li>Demo on Day 5</li>
+        <li>You can watch progress in real-time</li>
+      </ul>
+    </div>
+  </div>
 
-**Day 9-10:** Deployed, tested, documented. 3-hour technical handoff (recorded). You own everything.
+  <div class="process-step">
+    <div class="step-number">Day 9-10</div>
+    <div class="step-content">
+      <h3>Handoff & Deployment</h3>
+      <ul>
+        <li>Deployed to production</li>
+        <li>3-hour training session (recorded)</li>
+        <li>Full code transfer</li>
+      </ul>
+    </div>
+  </div>
 
-**After Day 10:** I'm out. You run it. No retainers, no dependency.
+  <div class="process-step final">
+    <div class="step-number">After</div>
+    <div class="step-content">
+      <h3>Your Success</h3>
+      <ul>
+        <li>You own everything - full independence</li>
+        <li>Discuss next steps or future projects</li>
+        <li>I'm available if you need guidance</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -37,7 +80,7 @@ description: "I build AI MVPs in 10 days and business automation in 5-7 days. $1
 
 ❌ You want unlimited revisions and scope changes
 
-❌ You're a non-tech company trying to "add AI"
+❌ You're a non-tech company without technical leadership
 
 ---
 
@@ -58,20 +101,32 @@ description: "I build AI MVPs in 10 days and business automation in 5-7 days. $1
 
 ---
 
-## Ideal Projects
+## What I Build
 
-**AI-Powered Applications:**
-- RAG systems with document chat
-- Content processing/automation pipelines
-- Internal tools with AI features
-- Data analysis dashboards with AI insights
+**MVPs & SaaS Products:**
+- Multi-user web applications
+- Admin dashboards and data tools
+- API integrations and platforms
+- AI-powered features (RAG, chat, automation)
 
-**Business Automation & Integration:**
-- N8N workflows for sales/ops/marketing
-- CRM integrations with AI (Salesforce, HubSpot)
+**Internal Tools:**
+- Custom business tools and workflows
+- Data processing and reporting systems
+- Admin panels and management interfaces
+- Integration tools connecting your systems
+
+**Business Automations:**
+- N8N workflow automation (sales, ops, marketing)
+- CRM integrations (Salesforce, HubSpot)
 - Document processing pipelines
-- Multi-system orchestration
 - Custom Telegram/Slack bots
+
+**Tech Stack:**
+- Python, JavaScript, PHP
+- Modern frameworks (Django, FastAPI, Next.js)
+- SQLite, PostgreSQL
+- N8N for automations
+- Simple, maintainable code
 
 **What I DON'T Build:**
 - Mobile apps (iOS/Android native)
@@ -83,13 +138,11 @@ description: "I build AI MVPs in 10 days and business automation in 5-7 days. $1
 
 ## Pricing
 
-### 10-Day AI MVP: $15,000 flat
+### MVP or Internal Tool: $15,000 flat (10 days)
 
-- Simple scope: $15k
+- Standard project: $15k
 - Complex scope: $18k-20k
 - Rush delivery (7 days): +$5k
-
-### Not Ready for a Full MVP?
 
 ### Business Automation: $8k-12k (5-7 days)
 
@@ -124,15 +177,36 @@ Build N8N automation workflows that eliminate manual work in your operations, sa
 
 ---
 
+## What Clients Say
+
+<div class="testimonials">
+  <div class="testimonial">
+    <p class="quote">"[Add testimonial quote here from Rudys.AI partner or other client]"</p>
+    <p class="author">— [Name], [Title] at [Company]</p>
+  </div>
+
+  <div class="testimonial">
+    <p class="quote">"[Add testimonial quote here from your sister about the course translation]"</p>
+    <p class="author">— [Name], [Business/Role]</p>
+  </div>
+
+  <div class="testimonial">
+    <p class="quote">"[Add testimonial quote here from Uncle Tom about bakery system]"</p>
+    <p class="author">— [Name], [Business Owner]</p>
+  </div>
+</div>
+
+---
+
 ## Why I'm Different
 
-**I'm not a consultant.** I don't sell strategy decks or "AI readiness assessments."
+**I think strategically with you.** Before writing code, I help you cut through the noise. What's core? What's nice-to-have? We refine the scope to the essence of your vision.
 
-**I'm not an agency.** I don't have designers, project managers, or overhead. Just me + Claude Code.
+**I'm a builder, not a consultant.** No strategy decks. No endless meetings. Just working software delivered fast.
 
-**I'm a builder.** 20 years of software engineering. I ship production-ready code in days, not months.
+**20 years of product thinking.** I've built enough to know what works and what doesn't. I'll tell you honestly what to build and what to skip.
 
-**I use AI to build AI.** Claude Code gives me 3-5x speed. I pass that speed to you.
+**I build fast.** Using modern AI tooling (Claude Code) + deep experience = 3-5x faster than traditional development. That speed advantage goes to you.
 
 ---
 

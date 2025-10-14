@@ -1,13 +1,13 @@
 baseURL = 'http://nasir.sh/'
 languageCode = 'en-us'
-title = 'Nasir Shadravan - I Build AI MVPs in 10 Days'
+title = 'Nasir Shadravan - I Build MVPs, Internal Tools & Automations in 10 Days'
 theme = 'mini'
 
 [markup.goldmark.renderer]
 unsafe= true
 
 [params]
-  description = "I build AI MVPs in 10 days and business automation in 5-7 days. $15k flat. No BS."
+  description = "I build MVPs, internal tools, and business automations in 10 days. Fast execution from Amsterdam. $15k flat."
   author = "Nasir Shadravan"
   customCSS = ["css/custom.css"]
 

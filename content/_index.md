@@ -1,38 +1,40 @@
 ---
-title: "I Build MVPs, Internal Tools & Automations in 10 Days"
-description: "I build MVPs, internal tools, and business automations in 10 days. Fast execution, clear deliverables. €15k flat. Amsterdam."
+title: "I Build MVPs and Internal Tools That Actually Work"
+description: "Strategic scoping. Fast execution. Full ownership. Fixed-scope projects delivered in 2-3 weeks. €15k flat. Amsterdam."
 ---
 
 ## How It Works
 
 <div class="process-timeline">
   <div class="process-step">
-    <div class="step-number">Day 1-2</div>
+    <div class="step-number">Week 1</div>
     <div class="step-content">
-      <h3>Strategic Scoping</h3>
+      <h3>Strategic Scoping & Foundation</h3>
       <ul>
         <li>Deep dive: understand your vision & goals</li>
         <li>Critical thinking: what should stay, what should go</li>
         <li>Refine scope to the core essence</li>
         <li>Clear, signed scope document</li>
+        <li>Start building core functionality</li>
       </ul>
     </div>
   </div>
 
   <div class="process-step">
-    <div class="step-number">Day 3-8</div>
+    <div class="step-number">Week 2-3</div>
     <div class="step-content">
-      <h3>Building</h3>
+      <h3>Building & Iteration</h3>
       <ul>
         <li>Daily progress updates</li>
-        <li>Demo on Day 5</li>
+        <li>Mid-project demo</li>
         <li>You can watch progress in real-time</li>
+        <li>2 rounds of focused revisions</li>
       </ul>
     </div>
   </div>
 
   <div class="process-step">
-    <div class="step-number">Day 9-10</div>
+    <div class="step-number">Final Days</div>
     <div class="step-content">
       <h3>Handoff & Deployment</h3>
       <ul>
@@ -138,15 +140,23 @@ description: "I build MVPs, internal tools, and business automations in 10 days.
 
 ## Pricing
 
-### MVP or Internal Tool: €15,000 flat (10 days)
+### MVP or Internal Tool: €15,000 flat
 
+**What You Get:**
+- Fixed scope, fixed timeline (2-3 weeks), fixed price
+- Working software deployed to production
+- Full source code + documentation
+- 3-hour technical handoff (recorded)
+- 2 rounds of revisions (scope-limited)
+
+**Pricing:**
 - Standard project: €15k
 - Complex scope: €18k-20k
-- Rush delivery (7 days): +€5k
+- Rush delivery (under 2 weeks): +€5k
 
-### Business Automation: €8k-12k (5-7 days)
+### Business Automation: €8k-12k
 
-Build N8N automation workflows that eliminate manual work in your operations, sales, or customer success teams.
+Build N8N automation workflows that eliminate manual work in your operations, sales, or customer success teams. Typical delivery: 1-2 weeks.
 
 **Examples:**
 - Sales call intelligence (transcribe → analyze → CRM update)
@@ -200,13 +210,13 @@ Build N8N automation workflows that eliminate manual work in your operations, sa
 
 ## Why I'm Different
 
-**I think strategically with you.** Before writing code, I help you cut through the noise. What's core? What's nice-to-have? We refine the scope to the essence of your vision.
+**I think strategically with you.** Before writing code, I help you cut through the noise. What's core? What's nice-to-have? We refine the scope to the essence of your vision. This strategic scoping saves you months of wasted development.
 
-**I'm a builder, not a consultant.** No strategy decks. No endless meetings. Just working software delivered fast.
+**20 years of product thinking.** I've built enough to know what works and what doesn't. I'll tell you honestly what to build and what to skip. You get the benefit of two decades of experience baked into every decision.
 
-**20 years of product thinking.** I've built enough to know what works and what doesn't. I'll tell you honestly what to build and what to skip.
+**I'm a builder, not a consultant.** No strategy decks. No endless meetings. Just working software delivered fast. You get running code, not PowerPoint presentations.
 
-**I build fast.** Using modern AI tooling (Claude Code) + deep experience = 3-5x faster than traditional development. That speed advantage goes to you.
+**Modern tooling meets deep experience.** Using Claude Code and AI tooling + 20 years of engineering = faster delivery without cutting corners. That speed advantage goes to you.
 
 ---
 
@@ -218,8 +228,8 @@ A: No. I build and hand off. You own the code, you run it. I can recommend freel
 **Q: What if I need changes after delivery?**
 A: 2 revision rounds are included (scope-limited). After that, you're on your own or we negotiate a new scope.
 
-**Q: What if it takes longer than 10 days?**
-A: I buffer for this. If scope is properly defined, 10 days is realistic. Worst case: 12 days.
+**Q: What if it takes longer than expected?**
+A: I buffer for this. If scope is properly defined, 2-3 weeks is realistic. I'll communicate proactively if there are any timeline risks.
 
 **Q: Do you sign NDAs?**
 A: Yes, standard NDAs are fine.

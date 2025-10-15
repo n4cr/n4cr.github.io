@@ -1,13 +1,13 @@
 ---
 title: "What I've Built"
-description: "Real projects built fast using Claude Code, N8N, and AI tooling. From hours to days, not weeks or months."
+description: "Real projects built using Claude Code, N8N, and AI tooling. Working software delivered fast, from concept to production."
 ---
 
 # What I've Built
 
-Real projects. Real speed. Real results.
+Real projects. Real results. Delivered fast.
 
-These are actual things I've built using Claude Code, N8N, and modern AI tooling. Some were paid, some weren't. All prove the same thing: **I ship fast.**
+These are actual things I've built using Claude Code, N8N, and modern AI tooling. Some were paid, some weren't. All prove the same thing: **I build software that works, and I deliver it quickly.**
 
 ---
 
@@ -33,7 +33,7 @@ These are actual things I've built using Claude Code, N8N, and modern AI tooling
 
 **Timeline:** Built in 2 weeks
 
-**Tech:** Python, Django, OpenAI DALL-E API, Stripe for payments
+**Tech:** Python, Django, Gemini Nano Banana, Stripe for payments
 
 **Outcome:** Live product generating professional posters from text prompts. Users can generate, customize, and download high-resolution posters. Paid plans for unlimited access.
 
@@ -145,19 +145,19 @@ These are actual things I've built using Claude Code, N8N, and modern AI tooling
 
 ## Common Thread?
 
-All of these were built FAST using Claude Code and modern AI tooling.
+All of these were built using Claude Code and modern AI tooling.
 
-Most of them were built in hours or days, not weeks or months.
+Most delivered in days or weeks - not months.
 
 Some were for clients, some for family, some for myself. All prove the same thing:
 
-**When you know what you're building, speed is possible.**
+**Strategic scoping + fast execution = working software that solves real problems.**
 
 ---
 
 ---
 
-**Want something built this fast?**
+**Want something built?**
 
-- **10-Day AI MVP:** $15k flat
-- **Business Automation:** $8k-12k (5-7 days)
+- **MVP or Internal Tool:** €15k flat (2-3 weeks)
+- **Business Automation:** €8k-12k (1-2 weeks)

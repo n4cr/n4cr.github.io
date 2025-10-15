@@ -1,5 +1,5 @@
 ---
-title: "I Build MVPs Fast — And I Can Teach Your Team Too"
+title: "I Build Software Fast — And I Can Teach Your Team Too"
 description: "I build production software in weeks using AI-augmented workflows. Based in Amsterdam. 20 years experience."
 ---
 

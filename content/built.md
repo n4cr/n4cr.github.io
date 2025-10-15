@@ -47,6 +47,25 @@ These are actual things I've built using Claude Code, N8N, and modern AI tooling
 
 ---
 
+## Multilingual Content Pipeline
+
+<video width="320" height="568" controls style="float: right; margin: 0 0 1em 2em; border-radius: 8px; max-width: 300px;">
+  <source src="/images/final_promo_vertical_subtitled.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**What:** Automated system to translate course videos into multiple languages with AI voice & lip-sync.
+
+**Timeline:** 1 day to build pipeline, 26 minutes to process full course
+
+**Tech:** ElevenLabs (voice), FAL.ai (lip-sync), FFmpeg, Python automation
+
+**Outcome:** Farsi skincare course → English/French/Turkish. Previously would have cost $15k+ and taken 3 months.
+
+**My Role:** Built entire pipeline for my sister's business.
+
+---
+
 ## N8N Automation Workflows
 
 ### Sales Call Intelligence System
@@ -88,20 +107,6 @@ These are actual things I've built using Claude Code, N8N, and modern AI tooling
 **Outcome:** Separate tool access for different roles (developer, analyst, sales) without cross-contamination. Switch contexts in one click.
 
 **ROI:** Cleaner AI interactions, no mixed context pollution.
-
----
-
-## Multilingual Content Pipeline
-
-**What:** Automated system to translate course videos into multiple languages with AI voice & lip-sync.
-
-**Timeline:** 1 day to build pipeline, 26 minutes to process full course
-
-**Tech:** ElevenLabs (voice), FAL.ai (lip-sync), FFmpeg, Python automation
-
-**Outcome:** Farsi skincare course → English/French/Turkish. Previously would have cost $15k+ and taken 3 months.
-
-**My Role:** Built entire pipeline for my sister's business.
 
 ---
 

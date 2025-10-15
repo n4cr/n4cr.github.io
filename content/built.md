@@ -13,6 +13,8 @@ These are actual things I've built using Claude Code, N8N, and modern AI tooling
 
 ## Rudys.AI - AI-Powered Google Ads Platform
 
+![Rudys.AI Logo](/images/logos/rudy.png)
+
 **What:** SaaS platform that generates Google Ads campaigns in any language using AI.
 
 **Timeline:** 6 weeks from idea to paying customers
@@ -28,6 +30,8 @@ These are actual things I've built using Claude Code, N8N, and modern AI tooling
 ---
 
 ## AI Poster Generator - AI-Powered Design Tool
+
+![AI Poster Generator](/images/aiposter.png)
 
 **What:** Web app that generates professional custom posters using AI from text descriptions, templates, or reference images.
 
@@ -159,5 +163,4 @@ Some were for clients, some for family, some for myself. All prove the same thin
 
 **Want something built?**
 
-- **MVP or Internal Tool:** 2-3 week delivery (pricing discussed on call)
-- **Business Automation:** 1-2 week delivery (pricing discussed on call)
+[See My Services →](/services) | [Book a 30-Minute Call](https://calendly.com/nasir-fio/30min)

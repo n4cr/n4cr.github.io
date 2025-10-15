@@ -1,11 +1,11 @@
 ---
-title: "Why So Fast?"
-description: "How we build MVPs and tools in 10 days using AI-augmented workflows and automation"
+title: "How I Build"
+description: "How I build software in weeks using AI-augmented workflows and automation. Your team can learn this too."
 ---
 
-# Why So Fast?
+# How I Build
 
-Most developers take weeks or months to build what I deliver in 10 days. Here's how.
+Most developers take months to build what I can show good results for in weeks. Here's how — and how your team can do it too.
 
 ---
 
@@ -122,7 +122,7 @@ When you hire me, you're not just getting a developer. You're getting:
 
 ## The Bottom Line
 
-I can build in 10 days what takes others months because I've eliminated the slow parts:
+I can show good results in weeks what takes others months because I've eliminated the slow parts:
 
 - No endless meetings (automation handles coordination)
 - No manual deployments (workflows handle it)
@@ -133,6 +133,18 @@ The result? You get working software faster, and you can iterate sooner.
 
 ---
 
+## Your Engineering Team Can Do This Too
+
+**Is your team slow?** Most engineering teams are burning runway on manual processes and outdated workflows.
+
+I teach CTOs and engineering teams how to adopt these same AI-augmented workflows. Your team can go from 3-week sprints to shipping features in 3-5 days.
+
+**Training format:** 4 hands-on sessions over 2-4 weeks. We build real automations for your business. No theory, just practical workflows your team will use daily.
+
+[Learn About Training →](/services#training)
+
+---
+
 **Ready to move fast?**
 
-[Book a 30-Minute Call](https://calendly.com/nasir-fio/30min) | [See What I've Built](/built)
+[See My Services →](/services) | [Book a 30-Minute Call](https://calendly.com/nasir-fio/30min) | [See What I've Built](/built)

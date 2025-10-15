@@ -1,254 +1,118 @@
 ---
-title: "I Build MVPs and Internal Tools That Actually Work"
-description: "Strategic scoping. Fast execution. Full ownership. Fixed-scope projects delivered in 2-3 weeks. €15k flat. Amsterdam."
+title: "I Build MVPs Fast — And I Can Teach Your Team Too"
+description: "I build production software in weeks using AI-augmented workflows. Based in Amsterdam. 20 years experience."
 ---
 
-## How It Works
-
-<div class="process-timeline">
-  <div class="process-step">
-    <div class="step-number">Week 1</div>
-    <div class="step-content">
-      <h3>Strategic Scoping & Foundation</h3>
-      <ul>
-        <li>Deep dive: understand your vision & goals</li>
-        <li>Critical thinking: what should stay, what should go</li>
-        <li>Refine scope to the core essence</li>
-        <li>Clear, signed scope document</li>
-        <li>Start building core functionality</li>
-      </ul>
-    </div>
+<div class="about-header">
+  <div class="about-photo">
+    <img src="/images/nasirphoto.jpeg" alt="Nasir Shadravan" class="profile-img">
   </div>
-
-  <div class="process-step">
-    <div class="step-number">Week 2-3</div>
-    <div class="step-content">
-      <h3>Building & Iteration</h3>
-      <ul>
-        <li>Daily progress updates</li>
-        <li>Mid-project demo</li>
-        <li>You can watch progress in real-time</li>
-        <li>2 rounds of focused revisions</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="process-step">
-    <div class="step-number">Final Days</div>
-    <div class="step-content">
-      <h3>Handoff & Deployment</h3>
-      <ul>
-        <li>Deployed to production</li>
-        <li>3-hour training session (recorded)</li>
-        <li>Full code transfer</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="process-step final">
-    <div class="step-number">After</div>
-    <div class="step-content">
-      <h3>Your Success</h3>
-      <ul>
-        <li>You own everything - full independence</li>
-        <li>Discuss next steps or future projects</li>
-        <li>I'm available if you need guidance</li>
-      </ul>
-    </div>
+  <div class="about-intro">
+    <h1>Nasir Shadravan</h1>
+    <p class="location">📍 Amsterdam, Netherlands</p>
+    <p class="location-detail">🏢 Working from A'DAM Tower</p>
   </div>
 </div>
 
 ---
 
-## This Is For You If:
+## Who I Am
 
-✅ You're a funded startup (seed stage, $500k-2M+) that needs to ship FAST
+**20 years building software.** J2EE monoliths, Django apps, microservices, and now AI-powered products. I've worked with startups and enterprises across Europe and the US.
 
-✅ You can clearly define what you want to build
+**I build fast using AI-augmented workflows.** Claude Code, N8N automation, modern tooling. I ship production software in weeks that takes traditional teams months.
 
-✅ You have someone technical who can take over after handoff
-
-✅ You value speed over perfection
-
-✅ You're tired of agencies that take months and charge €50k+
-
-## This Is NOT For You If:
-
-❌ You want ongoing support/maintenance
-
-❌ You need help "figuring out" what to build
-
-❌ You don't have clean data or existing infrastructure
-
-❌ You want unlimited revisions and scope changes
-
-❌ You're a non-tech company without technical leadership
+**I prefer building over consulting.** No strategy decks. No endless meetings. Just working software delivered fast — or training your team to do the same.
 
 ---
 
-## What You Get
+## Companies I've Worked With
 
-- Working AI-powered MVP deployed to production
-- Full source code + comprehensive documentation
-- 3-hour technical handoff session (recorded)
-- 2 rounds of revisions (scope-limited)
-- Deployment guide for your team
-
-## What You Don't Get
-
-- Ongoing support after handoff
-- Strategy consulting or market research
-- Unlimited scope changes
-- Hand-holding for non-technical teams
-
----
-
-## What I Build
-
-**MVPs & SaaS Products:**
-- Multi-user web applications
-- Admin dashboards and data tools
-- API integrations and platforms
-- AI-powered features (RAG, chat, automation)
-
-**Internal Tools:**
-- Custom business tools and workflows
-- Data processing and reporting systems
-- Admin panels and management interfaces
-- Integration tools connecting your systems
-
-**Business Automations:**
-- N8N workflow automation (sales, ops, marketing)
-- CRM integrations (Salesforce, HubSpot)
-- Document processing pipelines
-- Custom Telegram/Slack bots
-
-**Tech Stack:**
-- Python, JavaScript, PHP
-- Modern frameworks (Django, FastAPI, Next.js)
-- SQLite, PostgreSQL
-- N8N for automations
-- Simple, maintainable code
-
-**What I DON'T Build:**
-- Mobile apps (iOS/Android native)
-- Blockchain/Web3 applications
-- Enterprise compliance systems
-- Hardware/IoT integrations
-
----
-
-## Pricing
-
-### MVP or Internal Tool
-
-**What You Get:**
-- Fixed scope, fixed timeline (2-3 weeks), fixed price
-- Working software deployed to production
-- Full source code + documentation
-- 3-hour technical handoff (recorded)
-- 2 rounds of revisions (scope-limited)
-
-**Pricing:** Discussed on call based on scope and complexity. Projects typically range from mid-five figures depending on complexity.
-
-### Business Automation
-
-Build N8N automation workflows that eliminate manual work in your operations, sales, or customer success teams. Typical delivery: 1-2 weeks.
-
-**Examples:**
-- Sales call intelligence (transcribe → analyze → CRM update)
-- Document intake pipelines (receive → parse → route → notify)
-- Multi-system orchestration with AI
-- Custom Telegram/Slack workflow bots
-
-**Pricing:** Discussed on call based on scope and complexity. Projects typically range from mid-five figures depending on complexity.
-
-**Payment Terms:**
-- 50% upfront (secures your slot)
-- 50% on delivery
-
-**Availability:**
-- Taking 2-3 projects per month
-- Next available slot: Updated weekly
-
----
-
-## Recent Builds
-
-- **Rudys.AI** - Google Ads AI platform now live with paying customers (6 weeks)
-- **AI Poster Generator** - AI-powered poster design tool with paid users (2 weeks)
-- **Sales Call Analyzer** - Auto-transcribe → AI summary → CRM update (4 hours, saves 2 hrs/day = €30k/year)
-- **Multilingual Course Pipeline** - Farsi → English/French/Turkish with AI voice & lip-sync (1 day)
-- **Emergency NL Dashboard** - Real-time analytics for Dutch emergency data (2 days)
-- **Tom's Bakery System** - WhatsApp ordering automation (7 minutes)
-
-[See all projects →](/built)
+<div class="companies">
+  <div class="company-logo">
+    <a href="https://www.indexpeople.nl" target="_blank" rel="noopener">
+      <img width="100" src="/images/logos/indexpeople.svg" alt="Index People" />
+    </a>
+  </div>
+  <div class="company-logo">
+    <a href="https://www.deltafiber.nl" target="_blank" rel="noopener">
+      <img width="100" src="/images/logos/delta_fiber_RGB.svg" alt="Delta Fiber" />
+    </a>
+  </div>
+  <div class="company-logo">
+    <a href="https://rudys.ai" target="_blank" rel="noopener">
+      <img width="100" src="/images/logos/rudy.png" alt="Rudys.AI" />
+    </a>
+  </div>
+  <div class="company-logo">
+    <a href="https://xecolabs.com" target="_blank" rel="noopener">
+      <img width="100" src="/images/logos/xecolabs.svg" alt="XECO Labs" />
+    </a>
+  </div>
+</div>
 
 ---
 
 ## What Clients Say
 
-<div class="testimonials">
-  <div class="testimonial">
-    <p class="quote">"[Add testimonial quote here from Rudys.AI partner or other client]"</p>
-    <p class="author">— [Name], [Title] at [Company]</p>
-  </div>
-
-  <div class="testimonial">
-    <p class="quote">"[Add testimonial quote here from your sister about the course translation]"</p>
-    <p class="author">— [Name], [Business/Role]</p>
-  </div>
-
-  <div class="testimonial">
-    <p class="quote">"[Add testimonial quote here from Uncle Tom about bakery system]"</p>
-    <p class="author">— [Name], [Business Owner]</p>
+<div class="testimonial-highlight">
+  <div class="testimonial-content">
+    <img src="/images/ruud.jpg" alt="Ruud ten Have" class="testimonial-photo">
+    <blockquote>
+      <p>"Nasir and his team are magicians. They can build great products in a short time with an incredible feedback loop."</p>
+      <footer>
+        <strong>Ruud ten Have</strong><br>
+        Founder, <a href="https://searchlab.nl" target="_blank" rel="noopener">Searchlab.nl</a> & <a href="https://rudys.ai" target="_blank" rel="noopener">Rudys.AI</a>
+      </footer>
+    </blockquote>
   </div>
 </div>
 
 ---
 
-## Why I'm Different
+## What I Do
 
-**I think strategically with you.** Before writing code, I help you cut through the noise. What's core? What's nice-to-have? We refine the scope to the essence of your vision. This strategic scoping saves you months of wasted development.
+### I Build For You
 
-**20 years of product thinking.** I've built enough to know what works and what doesn't. I'll tell you honestly what to build and what to skip. You get the benefit of two decades of experience baked into every decision.
+MVPs, internal tools, and business automations. Strategic scoping, fast execution, full code ownership. Usually show good results in 2-3 weeks.
 
-**I'm a builder, not a consultant.** No strategy decks. No endless meetings. Just working software delivered fast. You get running code, not PowerPoint presentations.
+[See What I've Built →](/built) | [Learn More →](/build-for-you)
 
-**Modern tooling meets deep experience.** Using Claude Code and AI tooling + 20 years of engineering = faster delivery without cutting corners. That speed advantage goes to you.
+### I Train Your Team
 
----
+Show your engineering team how to ship 3-5x faster using the same AI-powered workflows I use. 4-session hands-on training for CTOs and technical teams.
 
-## FAQ
-
-**Q: Can you maintain it after delivery?**
-A: No. I build and hand off. You own the code, you run it. I can recommend freelancers if needed.
-
-**Q: What if I need changes after delivery?**
-A: 2 revision rounds are included (scope-limited). After that, you're on your own or we negotiate a new scope.
-
-**Q: What if it takes longer than expected?**
-A: I buffer for this. If scope is properly defined, 2-3 weeks is realistic. I'll communicate proactively if there are any timeline risks.
-
-**Q: Do you sign NDAs?**
-A: Yes, standard NDAs are fine.
-
-**Q: What's your tech stack?**
-A: Python/JavaScript/PHP, modern AI APIs, simple architectures. No overengineering.
-
-**Q: Can you work with our existing codebase?**
-A: Maybe. I need to review it first. If it's a mess, I'll tell you upfront (and probably decline).
+[How I Build →](/how) | [Learn More →](/training)
 
 ---
 
+## Ready to Work Together?
+
+Whether you need software built or your team trained to move faster:
+
+[See My Services →](/services) | [Book a 30-Min Call](https://calendly.com/nasir-fio/30min)
+
 ---
 
-## About Me
+## Trust & Credentials
 
-I'm Nasir Shadravan. 20 years building software, 5+ years in AI/ML engineering.
+<div class="trust-badges">
+  <div class="badge">
+    <strong>💼 20 Years Experience</strong>
+    <p>Software engineering since 2005</p>
+  </div>
+  <div class="badge">
+    <strong>🚀 Live Products</strong>
+    <p>2 SaaS products with paying customers</p>
+  </div>
+  <div class="badge">
+    <strong>🇳🇱 Based in Amsterdam</strong>
+    <p>A'DAM Tower - Dutch & international clients</p>
+  </div>
+</div>
 
-I've built J2EE monoliths, Django apps, microservices, and now AI-powered products. I'm a Claude Code power user and ship production code faster than most teams.
+---
 
-I prefer building over consulting. I prefer honesty over sales tactics.
+**Find me online:**
 
-[LinkedIn](https://linkedin.com/in/nasirshadravan) | [X/Twitter](https://twitter.com/n4cr) | [GitHub](https://github.com/nasir)
+[LinkedIn](https://linkedin.com/in/nasir-shadravan) | [X/Twitter](https://twitter.com/n4cr) | [GitHub](https://github.com/nasir)

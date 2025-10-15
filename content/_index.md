@@ -140,7 +140,7 @@ description: "Strategic scoping. Fast execution. Full ownership. Fixed-scope pro
 
 ## Pricing
 
-### MVP or Internal Tool: €15,000 flat
+### MVP or Internal Tool
 
 **What You Get:**
 - Fixed scope, fixed timeline (2-3 weeks), fixed price
@@ -149,12 +149,9 @@ description: "Strategic scoping. Fast execution. Full ownership. Fixed-scope pro
 - 3-hour technical handoff (recorded)
 - 2 rounds of revisions (scope-limited)
 
-**Pricing:**
-- Standard project: €15k
-- Complex scope: €18k-20k
-- Rush delivery (under 2 weeks): +€5k
+**Pricing:** Discussed on call based on scope and complexity. Projects typically range from mid-five figures depending on complexity.
 
-### Business Automation: €8k-12k
+### Business Automation
 
 Build N8N automation workflows that eliminate manual work in your operations, sales, or customer success teams. Typical delivery: 1-2 weeks.
 
@@ -163,6 +160,8 @@ Build N8N automation workflows that eliminate manual work in your operations, sa
 - Document intake pipelines (receive → parse → route → notify)
 - Multi-system orchestration with AI
 - Custom Telegram/Slack workflow bots
+
+**Pricing:** Discussed on call based on scope and complexity. Projects typically range from mid-five figures depending on complexity.
 
 **Payment Terms:**
 - 50% upfront (secures your slot)

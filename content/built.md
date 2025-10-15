@@ -159,5 +159,5 @@ Some were for clients, some for family, some for myself. All prove the same thin
 
 **Want something built?**
 
-- **MVP or Internal Tool:** €15k flat (2-3 weeks)
-- **Business Automation:** €8k-12k (1-2 weeks)
+- **MVP or Internal Tool:** 2-3 week delivery (pricing discussed on call)
+- **Business Automation:** 1-2 week delivery (pricing discussed on call)

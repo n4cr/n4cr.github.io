@@ -29,11 +29,15 @@
                     <span></span>
                     <span></span>
                 </button>
+                <div class="nav-backdrop"></div>
                 <div class="nav-links">
+                    <div class="nav-close">
+                        <button class="nav-close-btn" aria-label="Close navigation">&times;</button>
+                    </div>
                     <a href="/built">What I've Built</a>
                     <a href="/how">How I Build</a>
                     <div class="nav-item">
-                        <a>Services ▾</a>
+                        <a class="nav-dropdown-toggle">Services ▾</a>
                         <div class="dropdown-menu">
                             <a href="/build-for-you">I Build For You</a>
                             <a href="/training">Train Your Team</a>
@@ -55,22 +59,64 @@
         document.addEventListener('DOMContentLoaded', function() {
             const navToggle = document.querySelector('.nav-toggle');
             const navLinks = document.querySelector('.nav-links');
+            const navBackdrop = document.querySelector('.nav-backdrop');
+            const navCloseBtn = document.querySelector('.nav-close-btn');
+            const navDropdownToggle = document.querySelector('.nav-dropdown-toggle');
+            const navItem = document.querySelector('.nav-item');
+
+            function openMenu() {
+                navToggle.classList.add('active');
+                navLinks.classList.add('active');
+                navBackdrop.classList.add('active');
+                document.body.style.overflow = 'hidden';
+            }
+
+            function closeMenu() {
+                navToggle.classList.remove('active');
+                navLinks.classList.remove('active');
+                navBackdrop.classList.remove('active');
+                document.body.style.overflow = '';
+                if (navItem) navItem.classList.remove('active');
+            }
 
             if (navToggle) {
                 navToggle.addEventListener('click', function() {
-                    navToggle.classList.toggle('active');
-                    navLinks.classList.toggle('active');
-                });
-
-                // Close menu when clicking on a link
-                const links = navLinks.querySelectorAll('a');
-                links.forEach(link => {
-                    link.addEventListener('click', function() {
-                        navToggle.classList.remove('active');
-                        navLinks.classList.remove('active');
-                    });
+                    if (navLinks.classList.contains('active')) {
+                        closeMenu();
+                    } else {
+                        openMenu();
+                    }
                 });
             }
+
+            // Close button
+            if (navCloseBtn) {
+                navCloseBtn.addEventListener('click', closeMenu);
+            }
+
+            // Backdrop click
+            if (navBackdrop) {
+                navBackdrop.addEventListener('click', closeMenu);
+            }
+
+            // Services dropdown toggle on mobile
+            if (navDropdownToggle && navItem) {
+                navDropdownToggle.addEventListener('click', function(e) {
+                    if (window.innerWidth <= 768) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        navItem.classList.toggle('active');
+                    }
+                });
+            }
+
+            // Close menu when clicking on navigation links (except dropdown toggle)
+            const links = navLinks.querySelectorAll('a:not(.nav-dropdown-toggle)');
+            links.forEach(link => {
+                link.addEventListener('click', function() {
+                    closeMenu();
+                });
+            });
         });
     </script>
 

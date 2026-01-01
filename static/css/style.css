@@ -10,6 +10,7 @@
 }
 
 :root {
+    color-scheme: light only;
     --color-primary: #2563eb;
     --color-primary-dark: #1d4ed8;
     --color-text: #1f2937;
@@ -22,16 +23,23 @@
 }
 
 html {
+    color-scheme: light only;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: #ffffff;
 }
 
 body {
     font-family: var(--font-sans);
     color: var(--color-text);
-    background: var(--color-bg);
+    background-color: #ffffff;
     line-height: 1.7;
+}
+
+/* Ensure main content areas have explicit backgrounds */
+main {
+    background-color: #ffffff;
 }
 
 /* ==========================================================================

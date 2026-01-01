@@ -269,8 +269,10 @@ a:hover {
   .dropdown-menu {
     position: static;
     box-shadow: none;
-    background: #f9fafb;
+    background: var(--color-bg-light, #f9fafb);
     margin-top: 0;
+    border-radius: 8px;
+    padding: 8px 0;
   }
 
   .nav-item:hover .dropdown-menu {
@@ -279,6 +281,23 @@ a:hover {
 
   .nav-item.active .dropdown-menu {
     display: block;
+  }
+
+  .dropdown-menu a {
+    padding: 12px 20px !important;
+    border-bottom: none !important;
+    font-size: 15px !important;
+    color: var(--color-text, #1f2937) !important;
+  }
+
+  .dropdown-menu a:hover {
+    background: var(--color-border, #e5e7eb);
+  }
+
+  .nav-dropdown-toggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 }
 
